@@ -20,6 +20,7 @@
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [HRAnkit](https://github.com/hrankit)
+- [Ishan Srivastava](https://github.com/ishan-sriv)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
